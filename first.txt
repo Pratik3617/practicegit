@@ -1,1 +1,2 @@
-this is the first session of git
+This is the first session of git
+added new line
